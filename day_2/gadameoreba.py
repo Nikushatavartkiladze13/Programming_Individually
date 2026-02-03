@@ -1,14 +1,14 @@
 # შექმენით 4 ცვლადი თითოეულ მათგანს მნიშვნელობად მიანიჭეთ განსხავებული რიცხვები შემდეგ კი ამ რიცხვებით რომლებსაც ინახავთ ცვლადებში ყველა შესაძლო კომბინაციით შეასრულეთ ოთხი მათემატიკური მოქმედება: მიმატება, გამოკლება, გამრავლება, გაყოფა ისე რომ დაიბეჭდოს თვითონ მოქმედება და პასუხი მაგ. ავიღოთ ორი რიცხვი 3 და 4 ამ ორი რიცხვის შემთხვევაში შედექი იქნება 3 + 4 = 7
 # # 3 - 4 = -1 და ასე შემდეგ ყველა შესაძლო რიცხვების კომბინაციით და მოქმედებით, რეალური მაგალითი გავაკეთეთ გაკვეთილზე
 
-# num_1 = int(input("enter your number : "))
-# num_2 = int(input("enter your number :  "))
+num_1 = int(input("enter your number : "))
+num_2 = int(input("enter your number :  "))
 
 
-# print(num_1+num_2)
-# print(num_1 * num_2)
-# print(num_1 % num_2)
-# print(num_1 - num_2)
+print(num_1+num_2)
+print(num_1 * num_2)
+print(num_1 % num_2)
+print(num_1 - num_2)
 
 
 
@@ -16,7 +16,7 @@
 
 
 
-# age = int(input("asasa"))
+age = int(input("asasa"))
 
-# print(f"you are {age} years old")
+print(f"you are {age} years old")
 

@@ -1,15 +1,15 @@
-# sep = ""
+sep = ""
 
-# name = input("enter your name: ")
+name = input("enter your name: ")
 
-# print("Hello,", name, sep="")
+print("Hello,", name, sep="")
 
-# strip 
+strip 
 
-# name = input("enter your name and surname: ")
-# name = name.strip()
-# # name = name.capitalize()
-# name = name.title()
+name = input("enter your name and surname: ")
+name = name.strip()
+# name = name.capitalize()
+name = name.title()
 
 
-# print("Hello,",name)
+print("Hello,",name)
