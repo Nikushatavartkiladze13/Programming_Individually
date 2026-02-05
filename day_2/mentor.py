@@ -4,7 +4,7 @@ name = input("enter your name: ")
 
 print("Hello,", name, sep="")
 
-strip 
+# strip 
 
 name = input("enter your name and surname: ")
 name = name.strip()
